@@ -1,0 +1,48 @@
+.receitas-primeira-fileira{
+    background-color: #F0F0F0;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.receitas-segunda-fileira{
+    background-color: #F0F0F0;
+    display: flex;
+    justify-content: space-around
+}
+.receita{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #ffff;
+    width: 20%;
+    
+}
+.img-receita{
+    width: 100%;
+}
+.descrição-receita{
+    margin: 10px;
+}
+.titulo-receita{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.descrição-receita{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.botoes{
+    margin-bottom: 1rem;
+    background: #8D0606;
+    border-radius: 5px;
+    color: #ffff;
+}

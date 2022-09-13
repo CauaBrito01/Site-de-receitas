@@ -1,0 +1,20 @@
+
+.subititulo{
+    font-family: 'Pacifico',cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 90px;
+    color: #8D0606;
+    text-align: center;
+}
+.informaçoes-adicionais{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 33px;      
+    color: #8C8888;
+    text-align: center;
+    
+}

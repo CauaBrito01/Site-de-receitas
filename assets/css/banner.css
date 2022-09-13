@@ -1,0 +1,19 @@
+.imagem-banner{
+    width: 100%;
+    position: relative;
+}
+.escrita-banner{
+    position: absolute;
+    bottom: 250px;
+    left: 8%;
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 81px;
+    line-height: 142px;
+    color: #ffff;
+    align-items: center;
+}
+.benner{
+    width: 100%;
+}
